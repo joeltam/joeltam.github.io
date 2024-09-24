@@ -1,3 +1,5 @@
 Joel Tam
 
-Projects
+[Projects](projects.md)
+
+{% include projects.md %}
