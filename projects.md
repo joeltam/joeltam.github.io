@@ -1,3 +1,3 @@
 Computation Social Science
 
-**Project 1**
+- **Project 1** Git
