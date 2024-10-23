@@ -6,7 +6,7 @@ title: Home
 # 👋 Hi, I'm Joel Tam.
 
 ### About me:
-<br> I'm a graduate student at UC Berkeley studying transportation systems & data science.
+I'm a graduate student at UC Berkeley studying transportation systems & data science.
 
 email: <joelctam@gmail.com> <br> linkedin: <https://www.linkedin.com/in/joel-tam/> <br> github: <https://github.com/joeltam>
 
