@@ -4,7 +4,7 @@
 A geographical analysis of holiday bars in San Francisco -> We found the best route for Santa Claus to barhop.
 
 ### Induced Demand
-See <[Induced Demand Repo](https://github.com/joeltam/pems_scapper)>
+See <[Induced Demand Repo](https://github.com/joeltam/induced_demand)>
 
 ### Impact of Urban Sprawl on the Heat Island Effect
 Processed Landsat 8 satellite data through QGIS and MATLAB for composite true color imaging and thermal imaging, respectively.
