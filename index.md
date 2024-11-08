@@ -11,9 +11,6 @@ tags: Home
 
 ---
 
-
-[About](./about.md) | [Projects](./projects.md)
-
 # 👋 Hi, I'm Joel Tam.
 I'm a graduate student at UC Berkeley with a focus on transportation systems & data science.
 
