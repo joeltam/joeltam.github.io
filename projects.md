@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: default
 tags: projects
 ---
 
@@ -19,4 +19,8 @@ Surface temperatures from July 1992 increased by 18.0% by July 2022. From Octobe
 In 2022, July was warmer than October by 21.1%.
 In 1992, July was warmer than October by 9.1%.
 
-![Houston](./Houston.png)
+<!-- ![Houston](./Houston.png) -->
+
+<div align="center">
+  <img src="./Houston.png" alt="Houston" width="50%">
+</div>
