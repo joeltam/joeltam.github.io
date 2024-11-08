@@ -1,6 +1,14 @@
 ---
 layout: default
-tags: projects
+tags: Projects
+---
+
+<nav style="text-align: center;">
+  <a href="/" style="margin-right: 20px;">Home</a>
+  <a href="/about" style="margin-right: 20px;">About</a>
+  <a href="/projects">Projects</a>
+</nav>
+
 ---
 
 # GIS
