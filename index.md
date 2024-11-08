@@ -12,7 +12,7 @@ email: <joelctam@gmail.com> <br> linkedin: <https://www.linkedin.com/in/joel-tam
 
 resume as of Oct 22: [here](./joeltamresume.pdf)
 
-### [See My Projects](./projects.md)
+### See my projects: [here](./projects.md)
 
 
 look at this <font color="blue">penguin</font>!
