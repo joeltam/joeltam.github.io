@@ -1,3 +1,8 @@
+---
+layout: projects
+tags: projects
+---
+
 # GIS
 
 ### Barhopping with Santa Claus

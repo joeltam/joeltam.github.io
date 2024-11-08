@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+tags: Home
 ---
 
 # 👋 Hi, I'm Joel Tam.
