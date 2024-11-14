@@ -16,3 +16,7 @@ tags: About
 I'm a graduate student at UC Berkeley studying transportation systems & data science.
 
 I have worked at Lawrence Livermore National Laboratory (LLNL).
+
+look at this <font color="blue">penguin</font>!
+
+![this is a penguin](./penguin.jpg)
